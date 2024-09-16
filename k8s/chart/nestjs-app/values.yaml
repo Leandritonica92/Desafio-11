@@ -7,7 +7,7 @@ mongodb:
   dbName: test
 
 nestjs:
-  image: leandritonica92/desafio-11
+  image: leanespind92/desafio11
   tag: latest
   pullPolicy: IfNotPresent
   port: 3000  # Assuming you are using this port in your deployment
